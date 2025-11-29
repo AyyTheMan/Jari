@@ -1,0 +1,13 @@
+{
+  "/_global-error/page": "/_global-error",
+  "/_not-found/page": "/_not-found",
+  "/api/report-status/[id]/route": "/api/report-status/[id]",
+  "/auth/page": "/auth",
+  "/citizen-app/page": "/citizen-app",
+  "/map/page": "/map",
+  "/my-reports/page": "/my-reports",
+  "/page": "/",
+  "/report-success/page": "/report-success",
+  "/report/page": "/report",
+  "/report/track/[id]/page": "/report/track/[id]"
+}

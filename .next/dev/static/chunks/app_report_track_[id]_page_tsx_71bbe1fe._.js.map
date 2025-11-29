@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 4, "column": 0}, "map": {"version":3,"sources":["file:///C:/Users/aymnk/Downloads/newfolder222/app/report/track/%5Bid%5D/page.tsx"],"sourcesContent":["\"use client\"\n\nexport default function ReportTrackingPage() {\n  return (\n    <div className=\"min-h-screen bg-background p-4 flex items-center justify-center\">\n      <h1 className=\"text-2xl font-bold\">Debug Mode: Page Reverted</h1>\n    </div>\n  )\n}\n"],"names":[],"mappings":";;;;;AAAA;;AAEe,SAAS;IACtB,qBACE,6LAAC;QAAI,WAAU;kBACb,cAAA,6LAAC;YAAG,WAAU;sBAAqB;;;;;;;;;;;AAGzC;KANwB"}}]
+}

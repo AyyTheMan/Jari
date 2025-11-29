@@ -1,0 +1,10 @@
+{
+  "[project]/components/map-component.tsx [app-client] (ecmascript, next/dynamic entry)": {
+    "id": "[project]/components/map-component.tsx [app-client] (ecmascript, next/dynamic entry)",
+    "files": [
+      "static/chunks/node_modules_a47dad42._.js",
+      "static/chunks/components_map-component_tsx_e6a66e48._.js",
+      "static/chunks/components_map-component_tsx_00ec1c64._.js"
+    ]
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "/_not-found/page": "app/_not-found/page.js",
+  "/auth/page": "app/auth/page.js",
+  "/citizen-app/page": "app/citizen-app/page.js",
+  "/my-reports/page": "app/my-reports/page.js",
+  "/page": "app/page.js",
+  "/report-success/page": "app/report-success/page.js",
+  "/report/track/[id]/page": "app/report/track/[id]/page.js"
+}

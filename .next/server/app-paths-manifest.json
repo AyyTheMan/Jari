@@ -1,0 +1,13 @@
+{
+  "/_global-error/page": "app/_global-error/page.js",
+  "/_not-found/page": "app/_not-found/page.js",
+  "/api/report-status/[id]/route": "app/api/report-status/[id]/route.js",
+  "/auth/page": "app/auth/page.js",
+  "/citizen-app/page": "app/citizen-app/page.js",
+  "/map/page": "app/map/page.js",
+  "/my-reports/page": "app/my-reports/page.js",
+  "/page": "app/page.js",
+  "/report-success/page": "app/report-success/page.js",
+  "/report/page": "app/report/page.js",
+  "/report/track/[id]/page": "app/report/track/[id]/page.js"
+}
