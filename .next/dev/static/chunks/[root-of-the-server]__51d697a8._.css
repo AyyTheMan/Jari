@@ -294,60 +294,60 @@
 
   @supports (color: lab(0% 0 0)) {
     :root, :host {
-      --color-red-50: lab(96.5005% 4.18511 1.52329);
+      --color-red-50: lab(96.5005% 4.18508 1.52328);
       --color-red-100: lab(92.243% 10.2865 3.83865);
-      --color-red-300: lab(76.5514% 36.4219 15.5335);
-      --color-red-400: lab(63.7053% 60.7449 31.3109);
+      --color-red-300: lab(76.5514% 36.422 15.5335);
+      --color-red-400: lab(63.7053% 60.745 31.3109);
       --color-red-500: lab(55.4814% 75.0732 48.8528);
       --color-red-600: lab(48.4493% 77.4328 61.5452);
       --color-red-700: lab(40.4273% 67.2623 53.7441);
       --color-orange-500: lab(64.272% 57.1788 90.3583);
-      --color-amber-50: lab(98.6252% -.635982 8.42309);
+      --color-amber-50: lab(98.6252% -.635922 8.42309);
       --color-amber-200: lab(91.7203% -.505269 49.9084);
       --color-amber-600: lab(60.3514% 40.5624 87.1228);
-      --color-yellow-50: lab(98.6846% -1.79058 9.77662);
+      --color-yellow-50: lab(98.6846% -1.79055 9.7766);
       --color-yellow-100: lab(97.3564% -4.51407 27.344);
-      --color-yellow-200: lab(94.3433% -5.00426 52.9663);
+      --color-yellow-200: lab(94.3433% -5.00429 52.9663);
       --color-yellow-500: lab(76.3898% 14.5258 98.4589);
-      --color-yellow-600: lab(62.7799% 22.4198 86.1544);
+      --color-yellow-600: lab(62.7799% 22.4197 86.1544);
       --color-yellow-700: lab(47.8202% 25.2426 66.5015);
       --color-yellow-800: lab(38.7484% 23.5833 51.4916);
-      --color-yellow-900: lab(32.3865% 21.1274 38.5958);
-      --color-green-100: lab(96.186% -13.8464 6.52362);
-      --color-green-500: lab(70.5521% -66.5147 45.8072);
+      --color-yellow-900: lab(32.3865% 21.1273 38.5959);
+      --color-green-100: lab(96.1861% -13.8464 6.52365);
+      --color-green-500: lab(70.5521% -66.5147 45.8073);
       --color-green-600: lab(59.0978% -58.6621 41.2579);
       --color-green-700: lab(47.0329% -47.0239 31.4788);
-      --color-blue-50: lab(96.492% -1.14647 -5.11479);
+      --color-blue-50: lab(96.492% -1.14644 -5.11479);
       --color-blue-100: lab(92.0301% -2.24757 -11.6453);
       --color-blue-200: lab(86.15% -4.04379 -21.0797);
       --color-blue-300: lab(77.5052% -6.4629 -36.42);
-      --color-blue-400: lab(65.0361% -1.42062 -56.9803);
-      --color-blue-500: lab(54.1736% 13.3368 -74.6839);
+      --color-blue-400: lab(65.0361% -1.42065 -56.9802);
+      --color-blue-500: lab(54.1736% 13.3369 -74.6839);
       --color-blue-600: lab(44.0605% 29.0279 -86.0352);
       --color-blue-700: lab(36.9089% 35.0961 -85.6872);
-      --color-blue-800: lab(30.2514% 27.7854 -70.2699);
-      --color-purple-50: lab(97.1626% 2.99937 -4.13398);
-      --color-purple-100: lab(93.3333% 6.9744 -9.83434);
+      --color-blue-800: lab(30.2514% 27.7853 -70.2699);
+      --color-purple-50: lab(97.1627% 2.99937 -4.13398);
+      --color-purple-100: lab(93.3333% 6.97437 -9.83434);
       --color-purple-200: lab(87.8405% 13.4282 -18.7159);
       --color-purple-600: lab(43.0295% 75.21 -86.5669);
       --color-purple-700: lab(36.1758% 69.8525 -80.0381);
       --color-purple-900: lab(24.9401% 45.2703 -51.2728);
-      --color-slate-50: lab(98.1434% -.369549 -1.05968);
-      --color-slate-100: lab(96.286% -.852466 -2.46847);
+      --color-slate-50: lab(98.1434% -.369519 -1.05966);
+      --color-slate-100: lab(96.286% -.852436 -2.46847);
       --color-slate-200: lab(91.7353% -.998765 -4.76968);
       --color-slate-300: lab(84.7652% -1.94535 -7.93337);
       --color-slate-400: lab(65.5349% -2.25151 -14.5072);
       --color-slate-500: lab(48.0876% -2.03595 -16.5814);
       --color-slate-600: lab(35.5623% -1.74978 -15.4316);
-      --color-slate-700: lab(26.9569% -1.47018 -15.6993);
-      --color-slate-800: lab(16.132% -.318021 -14.6672);
-      --color-slate-900: lab(7.78673% 1.82346 -15.0537);
+      --color-slate-700: lab(26.9569% -1.47016 -15.6993);
+      --color-slate-800: lab(16.132% -.318035 -14.6672);
+      --color-slate-900: lab(7.78673% 1.82345 -15.0537);
       --color-slate-950: lab(1.76974% 1.32743 -9.28855);
       --color-gray-50: lab(98.2596% -.247031 -.706708);
-      --color-gray-100: lab(96.1596% -.082314 -1.13575);
-      --color-gray-200: lab(91.6229% -.159085 -2.26791);
-      --color-gray-400: lab(65.9269% -.832707 -8.17474);
-      --color-gray-500: lab(47.7841% -.393212 -10.0268);
+      --color-gray-100: lab(96.1596% -.0823438 -1.13575);
+      --color-gray-200: lab(91.6229% -.159115 -2.26791);
+      --color-gray-400: lab(65.9269% -.832707 -8.17473);
+      --color-gray-500: lab(47.7841% -.393182 -10.0268);
       --color-gray-600: lab(35.6337% -1.58697 -10.8425);
       --color-gray-700: lab(27.1134% -.956401 -12.3224);
       --color-gray-900: lab(8.11897% .811279 -12.254);
@@ -758,10 +758,6 @@
 
   .right-6 {
     right: calc(var(--spacing) * 6);
-  }
-
-  .right-8 {
-    right: calc(var(--spacing) * 8);
   }
 
   .-bottom-12 {
@@ -1261,10 +1257,6 @@
 
   .h-\[180px\] {
     height: 180px;
-  }
-
-  .h-\[300px\] {
-    height: 300px;
   }
 
   .h-\[calc\(100\%-1px\)\] {
@@ -3158,10 +3150,6 @@
 
   .text-\[\#6B7280\] {
     color: #6b7280;
-  }
-
-  .text-accent {
-    color: var(--accent);
   }
 
   .text-accent-foreground {
@@ -6843,37 +6831,37 @@
 
 @supports (color: lab(0% 0 0)) {
   :root {
-    --background: lab(95.4802% -2.19601 2.9042);
+    --background: lab(95.4802% -2.19598 2.90419);
     --foreground: lab(7.43678% -3.86725 4.92799);
-    --card: lab(97.8003% -2.19616 2.90397);
+    --card: lab(97.8003% -2.19622 2.90399);
     --card-foreground: lab(7.43678% -3.86725 4.92799);
-    --popover: lab(97.8003% -2.19616 2.90397);
+    --popover: lab(97.8003% -2.19622 2.90399);
     --popover-foreground: lab(7.43678% -3.86725 4.92799);
     --primary: lab(25.5205% -20.5049 21.339);
-    --primary-foreground: lab(97.8003% -2.19616 2.90397);
+    --primary-foreground: lab(97.8003% -2.19622 2.90399);
     --secondary: lab(91.074% -6.52912 8.78104);
-    --secondary-foreground: lab(13.4243% -8.26584 12.2712);
-    --muted: lab(90.9582% -4.37194 5.83105);
-    --muted-foreground: lab(36.6502% -8.50898 11.9914);
-    --accent: lab(86.547% -8.66038 11.7656);
-    --accent-foreground: lab(13.4243% -8.26584 12.2712);
+    --secondary-foreground: lab(13.4243% -8.26583 12.2712);
+    --muted: lab(90.9582% -4.37197 5.83105);
+    --muted-foreground: lab(36.6502% -8.50895 11.9913);
+    --accent: lab(86.547% -8.66035 11.7656);
+    --accent-foreground: lab(13.4243% -8.26583 12.2712);
     --destructive: lab(48.4493% 77.4328 61.5452);
     --destructive-foreground: lab(97.68% -.0000298023 .0000119209);
-    --border: lab(86.318% -4.37018 5.83309);
-    --input: lab(97.8003% -2.19616 2.90397);
+    --border: lab(86.318% -4.37021 5.83309);
+    --input: lab(97.8003% -2.19622 2.90399);
     --ring: lab(25.5205% -20.5049 21.339);
     --chart-1: lab(25.5205% -20.5049 21.339);
-    --chart-2: lab(49.1884% -30.7809 31.7862);
+    --chart-2: lab(49.1883% -30.7809 31.7862);
     --chart-3: lab(37.5155% -33.4705 13.1338);
     --chart-4: lab(66.939% -38.4874 39.633);
     --chart-5: lab(54.6214% -17.1815 45.4137);
-    --sidebar: lab(95.4802% -2.19601 2.9042);
+    --sidebar: lab(95.4802% -2.19598 2.90419);
     --sidebar-foreground: lab(7.43678% -3.86725 4.92799);
     --sidebar-primary: lab(25.5205% -20.5049 21.339);
-    --sidebar-primary-foreground: lab(97.8003% -2.19616 2.90397);
+    --sidebar-primary-foreground: lab(97.8003% -2.19622 2.90399);
     --sidebar-accent: lab(91.074% -6.52912 8.78104);
-    --sidebar-accent-foreground: lab(13.4243% -8.26584 12.2712);
-    --sidebar-border: lab(86.318% -4.37018 5.83309);
+    --sidebar-accent-foreground: lab(13.4243% -8.26583 12.2712);
+    --sidebar-border: lab(86.318% -4.37021 5.83309);
     --sidebar-ring: lab(25.5205% -20.5049 21.339);
   }
 }
@@ -6916,37 +6904,37 @@
 @supports (color: lab(0% 0 0)) {
   .dark {
     --background: lab(3.17765% -2.60613 2.30598);
-    --foreground: lab(94.4575% -5.22345 4.86968);
+    --foreground: lab(94.4575% -5.22345 4.86966);
     --card: lab(5.45566% -3.78691 3.37636);
-    --card-foreground: lab(94.4575% -5.22345 4.86968);
+    --card-foreground: lab(94.4575% -5.22345 4.86966);
     --popover: lab(5.45566% -3.78691 3.37636);
-    --popover-foreground: lab(94.4575% -5.22345 4.86968);
-    --primary: lab(49.1884% -30.7809 31.7862);
+    --popover-foreground: lab(94.4575% -5.22345 4.86966);
+    --primary: lab(49.1883% -30.7809 31.7862);
     --primary-foreground: lab(3.17765% -2.60613 2.30598);
-    --secondary: lab(13.4773% -10.3081 10.2371);
-    --secondary-foreground: lab(94.4575% -5.22345 4.86968);
+    --secondary: lab(13.4773% -10.308 10.2371);
+    --secondary-foreground: lab(94.4575% -5.22345 4.86966);
     --muted: lab(13.2492% -5.19189 4.95971);
     --muted-foreground: lab(59.9035% -10.4029 9.85816);
-    --accent: lab(13.4773% -10.3081 10.2371);
-    --accent-foreground: lab(94.4575% -5.22345 4.86968);
+    --accent: lab(13.4773% -10.308 10.2371);
+    --accent-foreground: lab(94.4575% -5.22345 4.86966);
     --destructive: lab(51.1306% 63.0957 40.2947);
     --destructive-foreground: lab(94.2% 0 0);
     --border: lab(13.2492% -5.19189 4.95971);
     --input: lab(7.45917% -4.6964 4.20307);
-    --ring: lab(49.1884% -30.7809 31.7862);
-    --chart-1: lab(49.1884% -30.7809 31.7862);
+    --ring: lab(49.1883% -30.7809 31.7862);
+    --chart-1: lab(49.1883% -30.7809 31.7862);
     --chart-2: lab(37.5155% -33.4705 13.1338);
     --chart-3: lab(25.5205% -20.5049 21.339);
     --chart-4: lab(66.939% -38.4874 39.633);
     --chart-5: lab(54.6214% -17.1815 45.4137);
     --sidebar: lab(3.17765% -2.60613 2.30598);
-    --sidebar-foreground: lab(94.4575% -5.22345 4.86968);
-    --sidebar-primary: lab(49.1884% -30.7809 31.7862);
-    --sidebar-primary-foreground: lab(94.4575% -5.22345 4.86968);
-    --sidebar-accent: lab(13.4773% -10.3081 10.2371);
-    --sidebar-accent-foreground: lab(94.4575% -5.22345 4.86968);
+    --sidebar-foreground: lab(94.4575% -5.22345 4.86966);
+    --sidebar-primary: lab(49.1883% -30.7809 31.7862);
+    --sidebar-primary-foreground: lab(94.4575% -5.22345 4.86966);
+    --sidebar-accent: lab(13.4773% -10.308 10.2371);
+    --sidebar-accent-foreground: lab(94.4575% -5.22345 4.86966);
     --sidebar-border: lab(13.2492% -5.19189 4.95971);
-    --sidebar-ring: lab(49.1884% -30.7809 31.7862);
+    --sidebar-ring: lab(49.1883% -30.7809 31.7862);
   }
 }
 
